@@ -1,1 +1,4 @@
 yacaptcha/*.pyc
+django_yacaptcha.egg-info
+dist
+
