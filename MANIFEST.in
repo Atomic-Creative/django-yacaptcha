@@ -1,5 +1,5 @@
 include AUTHORS
 include LICENSE
 include README.md
-recursive-include yacaptcha *
+recursive-include yacaptcha *.py *.html *.js *.gif *.png *.css *.po *.mo
 

@@ -6,7 +6,7 @@ try:
 except ImportError:
     from setuptools.command.test import test
 
-version = '0.0.2'
+version = '0.0.4'
 
 def read(fname):
     # read the contents of a text file
