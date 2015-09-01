@@ -4,6 +4,10 @@ Django YaCaptcha
 
 Django YaCaptcha - Yandex Captcha (cleanweb) form field/widget integration app.
 
+=====
+Project is not suported since 1 October 2015, as Yandex closing Cleanweb API.
+=====
+
 Uses https://github.com/coagulant/cleanweb
 
 Quick start
